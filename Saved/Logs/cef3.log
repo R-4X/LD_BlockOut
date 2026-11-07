@@ -3,3 +3,27 @@
 [35700:54188:1107/101027.704:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
 [35700:58564:1107/101027.814:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
 [68920:69588:1107/101051.710:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-508BFFC9C07682399F1E3A4EA8E73D89 will be ignored
+[35700:58564:1107/101240.450:ERROR:device_event_log_impl.cc(196)] [10:12:40.363] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[35700:58564:1107/101241.194:ERROR:device_event_log_impl.cc(196)] [10:12:41.146] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[35700:58564:1107/105454.920:ERROR:device_event_log_impl.cc(196)] [10:54:54.914] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[35700:58564:1107/105456.738:ERROR:device_event_log_impl.cc(196)] [10:54:56.721] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[35700:58564:1107/105456.738:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[35700:58564:1107/105456.738:ERROR:device_event_log_impl.cc(196)] [10:54:56.734] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_1bcf&pid_08a0#6&222d2f0a&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[35700:58564:1107/105456.754:ERROR:device_event_log_impl.cc(196)] [10:54:56.750] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[35700:58564:1107/110146.746:ERROR:device_event_log_impl.cc(196)] [11:01:44.693] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[35700:58564:1107/110214.241:ERROR:device_event_log_impl.cc(196)] [11:02:14.180] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[35700:58564:1107/110222.903:ERROR:device_event_log_impl.cc(196)] [11:02:22.720] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[35700:58564:1107/110223.567:ERROR:usb_descriptors.cc(122)] Failed to read configuration descriptor.
+[35700:58564:1107/110223.567:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 1, got 0.
+[35700:58564:1107/110223.567:ERROR:device_event_log_impl.cc(196)] [11:02:23.564] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_1bcf&pid_08a0#6&222d2f0a&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[35700:58564:1107/110224.304:ERROR:device_event_log_impl.cc(196)] [11:02:24.048] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[35700:58564:1107/112526.566:ERROR:device_event_log_impl.cc(196)] [11:25:26.477] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[35700:58564:1107/112526.900:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[35700:58564:1107/112526.901:ERROR:device_event_log_impl.cc(196)] [11:25:26.898] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_1bcf&pid_08a0#6&222d2f0a&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[35700:58564:1107/112527.262:ERROR:device_event_log_impl.cc(196)] [11:25:27.203] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[35700:58564:1107/112527.931:ERROR:usb_descriptors.cc(122)] Failed to read configuration descriptor.
+[35700:58564:1107/112527.932:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 1, got 0.
+[35700:58564:1107/112527.932:ERROR:device_event_log_impl.cc(196)] [11:25:27.930] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_1bcf&pid_08a0#6&222d2f0a&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[35700:58564:1107/112528.257:ERROR:device_event_log_impl.cc(196)] [11:25:28.180] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[35700:58564:1107/112550.626:ERROR:device_event_log_impl.cc(196)] [11:25:50.585] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[35700:58564:1107/114633.619:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
