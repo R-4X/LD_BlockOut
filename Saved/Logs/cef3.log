@@ -1,3 +1,5 @@
-[7588:7248:1103/150319.012:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[7588:7248:1103/150319.415:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[7588:7248:1103/171657.902:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[35700:58564:1107/101027.336:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[35700:58564:1107/101027.517:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clé non valide pour l’utilisation dans l’état spécifié. (0x8009000B)
+[35700:54188:1107/101027.704:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[35700:58564:1107/101027.814:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[68920:69588:1107/101051.710:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-508BFFC9C07682399F1E3A4EA8E73D89 will be ignored
