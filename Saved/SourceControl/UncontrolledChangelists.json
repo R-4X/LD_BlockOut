@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Users/Alexis/Documents/Unreal Projects/FP_WalkingSim/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Users/Alexis/Documents/Unreal Projects/FP_WalkingSim/Content/BPI_Interact.uasset",
+				"E:/Users/Alexis/Documents/Unreal Projects/FP_WalkingSim/Content/BP_Key.uasset",
+				"E:/Users/Alexis/Documents/Unreal Projects/FP_WalkingSim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/A3/SN0NFHKBP4NZO3AMX2TNTD.uasset",
+				"E:/Users/Alexis/Documents/Unreal Projects/FP_WalkingSim/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ.uasset",
+				"E:/Users/Alexis/Documents/Unreal Projects/FP_WalkingSim/Content/UI/UI_Main.uasset"
+			]
+		}
+	]
+}
