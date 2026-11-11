@@ -1,28 +1,21 @@
-[49664:32452:1107/161515.418:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[49664:74188:1107/161515.700:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[49664:32452:1107/161515.824:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[23280:74000:1107/161525.112:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7C7EF9949AC2CF7F729F67E32B46D1F6 will be ignored
-[49664:32452:1107/164034.111:ERROR:device_event_log_impl.cc(196)] [16:40:34.069] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/164212.547:ERROR:device_event_log_impl.cc(196)] [16:42:12.530] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/164212.559:ERROR:device_event_log_impl.cc(196)] [16:42:12.548] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/164400.798:ERROR:device_event_log_impl.cc(196)] [16:44:00.762] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/164435.466:ERROR:device_event_log_impl.cc(196)] [16:44:35.420] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/164600.462:ERROR:device_event_log_impl.cc(196)] [16:46:00.455] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/164600.538:ERROR:device_event_log_impl.cc(196)] [16:46:00.534] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/164958.016:ERROR:device_event_log_impl.cc(196)] [16:49:57.971] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/165157.642:ERROR:device_event_log_impl.cc(196)] [16:51:57.641] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/165157.681:ERROR:device_event_log_impl.cc(196)] [16:51:57.682] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/165518.875:ERROR:device_event_log_impl.cc(196)] [16:55:18.836] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/165656.129:ERROR:device_event_log_impl.cc(196)] [16:56:56.106] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/170026.229:ERROR:device_event_log_impl.cc(196)] [17:00:26.204] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/170029.942:ERROR:device_event_log_impl.cc(196)] [17:00:29.899] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/170029.958:ERROR:device_event_log_impl.cc(196)] [17:00:29.958] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/170048.996:ERROR:device_event_log_impl.cc(196)] [17:00:48.902] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/170605.074:ERROR:device_event_log_impl.cc(196)] [17:06:05.055] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/172457.859:ERROR:device_event_log_impl.cc(196)] [17:24:57.828] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/172459.186:ERROR:device_event_log_impl.cc(196)] [17:24:59.097] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/172625.653:ERROR:device_event_log_impl.cc(196)] [17:26:25.636] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/173218.997:ERROR:device_event_log_impl.cc(196)] [17:32:18.941] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/173721.838:ERROR:device_event_log_impl.cc(196)] [17:37:21.789] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/173924.575:ERROR:device_event_log_impl.cc(196)] [17:39:24.551] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[49664:32452:1107/175547.649:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[20488:71944:1111/133919.486:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20488:88808:1111/133919.859:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20488:71944:1111/133919.997:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[96388:96392:1111/133936.997:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B0A1AC5A78A7221193805931E0E67473 will be ignored
+[96316:60280:1111/133940.628:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[96316:94512:1111/133940.703:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[96316:94512:1111/133940.704:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[96316:94512:1111/133940.705:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20488:61312:1111/133941.672:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[20488:71944:1111/133942.327:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[20488:71944:1111/133942.328:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[20488:71944:1111/133942.328:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[20488:71944:1111/133942.328:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[20488:61312:1111/133942.335:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[80740:95592:1111/133943.989:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[80740:22056:1111/133944.082:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[80740:22056:1111/133944.083:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[80740:22056:1111/133944.084:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[80740:95592:1111/133950.182:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[87004:73344:1111/134156.758:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[20488:71944:1111/142809.599:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
