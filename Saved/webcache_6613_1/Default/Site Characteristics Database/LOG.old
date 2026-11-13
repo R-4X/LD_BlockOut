@@ -1,2 +1,5 @@
-2026/11/11-22:26:55.462 11b08 Creating DB C:\Users\louch\OneDrive\Documents\Unity\projet Semestre 2\LD_BlockOut\Saved\webcache_6613_1\Default\Site Characteristics Database since it was missing.
-2026/11/11-22:26:55.468 11b08 Reusing MANIFEST C:\Users\louch\OneDrive\Documents\Unity\projet Semestre 2\LD_BlockOut\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
+2026/11/13-12:40:27.161 8dc Log #3: 2 ops saved to Table #4 OK
+2026/11/13-12:40:27.179 8dc Archiving C:\Users\louison.charpenay\Documents\Unreal Projects\CollageOldProject\LD_BlockOut\Saved\webcache_6613_1\Default\Site Characteristics Database/000003.log: OK
+2026/11/13-12:40:27.179 8dc Table #4: 2 entries OK
+2026/11/13-12:40:27.180 8dc Archiving C:\Users\louison.charpenay\Documents\Unreal Projects\CollageOldProject\LD_BlockOut\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/11/13-12:40:27.205 8dc **** Repaired leveldb C:\Users\louison.charpenay\Documents\Unreal Projects\CollageOldProject\LD_BlockOut\Saved\webcache_6613_1\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
